@@ -1,4 +1,4 @@
-## **2️⃣ Bistm** – Case Study Repo (No Code)
+## **Bistm** – Case Study Repo (No Code)
 
 # Bistm: Cars Community & E-commerce (Client App)
 
